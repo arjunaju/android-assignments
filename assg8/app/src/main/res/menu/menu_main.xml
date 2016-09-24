@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.arjun.user.assg8.MainActivity">
+
+    <item
+        android:id="@+id/item1"
+        android:title="items"
+        android:icon="@drawable/car"
+        />
+    <item
+        android:id="@+id/item2"
+        android:title="search"
+        android:icon="@drawable/search"
+
+        />
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/pencil"
+        android:title="edit"
+        />
+
+</menu>
